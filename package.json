@@ -1,0 +1,19 @@
+{
+  "name": "arithmetic-custommodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JossinAntony/nodejs-customModule-arithmetic.git"
+  },
+  "author": "Jossin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JossinAntony/nodejs-customModule-arithmetic/issues"
+  },
+  "homepage": "https://github.com/JossinAntony/nodejs-customModule-arithmetic#readme"
+}
